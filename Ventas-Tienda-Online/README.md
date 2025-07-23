@@ -1,4 +1,4 @@
-# 🧠 Customer Transactions – Exploratory Data Analysis (EDA)
+# 🧠 Ventas en Tienda Online – Exploratory Data Analysis (EDA)
 
 Este proyecto realiza un análisis exploratorio de datos sobre un conjunto de transacciones de clientes de una tienda online. El objetivo es entender el comportamiento de los clientes a lo largo del tiempo y detectar patrones relevantes para la toma de decisiones de negocio.
 
@@ -45,19 +45,32 @@ Este proyecto realiza un análisis exploratorio de datos sobre un conjunto de tr
 - Tendencia de ventas por mes
 - Número de transacciones mensuales
 - Relación entre edad y gasto
-- Comparación de gasto por género, método de pago y segmento
-- Comportamiento de clientes referidos vs no referidos
+- Comparación de gasto por género
+
 
 
 ---
 
 ## 📁 Archivos generados
 
-- `cleaned_customer_data.csv` – datos limpios listos para Power BI.
-- `eda_notebook.ipynb` – notebook con todo el análisis en Python.
-- `powerbi_dashboard.pbix` *(opcional)* – visualización interactiva si decidiste exportarla.
+- `online_store_customer_data_cleaned.csv` – datos limpios listos para Power BI.
+- `ventas.ipynb` – notebook con todo el análisis en Python.
+
 
 ---
+
+## 📈 Gráfico de Power BI
+
+
+Este panel incluye los siguientes gráficos:
+
+- 📅 Ventas por mes  
+- 👥 Ventas por género  
+- 🏦 Ventas por segmento bancario  
+- 💳 Ventas por forma de pago
+
+![Gráfico Power BI](imagenes/GraficoVentas.png)
+
 
 ## 📌 Conclusión
 
