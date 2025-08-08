@@ -24,13 +24,6 @@ Python (Pandas, Matplotlib), Power BI, Jupyter Notebook.
 
 ---
 
-## 🧪 Próximos proyectos
-
-- Web scraping
-- Consultas SQL
-- Dashboard de Finanzas Personales
-
----
 
 ## 👨‍💻 Sobre mí
 
